@@ -14,7 +14,7 @@
 
 // @require       https://canvasjs.com/assets/script/canvasjs.min.js
 // @require       https://cdn.rawgit.com/davidshimjs/qrcodejs/gh-pages/qrcode.min.js
-// @require       https://cdn.jsdelivr.net/gh/spreadmonitor-playground/toggl-log-from-github@0.7.0/src/main.js
+// @require       https://cdn.jsdelivr.net/gh/spreadmonitor-playground/toggl-log-from-github@latest/src/main.js
 
 // ==/UserScript==
 
